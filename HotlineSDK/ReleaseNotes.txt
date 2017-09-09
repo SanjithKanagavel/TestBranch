@@ -2,7 +2,10 @@ Hotline iOS SDK - Powered by Freshdesk
 
 Documentation   : https://support.hotline.io/support/solutions
 Support Email   : support@hotline.io 
-Version         : 1.3.6
+Version         : DEV
+
+Ver DEV 
+__________________________
 
 Ver 1.3.6 
 __________________________
